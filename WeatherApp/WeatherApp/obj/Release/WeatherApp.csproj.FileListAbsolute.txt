@@ -1,0 +1,13 @@
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe.config
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\bin\Release\WeatherApp.pdb
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.Form1.resources
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.Properties.Resources.resources
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CopyComplete
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.exe
+C:\Users\Work\Desktop\Weather app\WeatherApp\WeatherApp\obj\Release\WeatherApp.pdb
